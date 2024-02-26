@@ -1,0 +1,10 @@
+{
+    "with_version": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu-20.04",
+        "features": {
+            "foundry": {
+                "commit": "43b4e23252b00a871923fb0acff3550519af0e68"
+            }
+        }
+    }
+}

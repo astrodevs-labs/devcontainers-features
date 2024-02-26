@@ -1,0 +1,9 @@
+{
+    "foundry_and_slither": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "foundry": {},
+            "slither": {}
+        }
+    }
+}

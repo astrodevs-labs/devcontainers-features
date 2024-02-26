@@ -1,0 +1,10 @@
+{
+    "name": "Setup Slither",
+    "id": "slither",
+    "version": "1.0.0",
+    "description": "Install slither",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}

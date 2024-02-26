@@ -1,0 +1,16 @@
+{
+    "name": "Setup Foundry",
+    "id": "foundry",
+    "version": "1.0.0",
+    "description": "Install foundry toolchain",
+    "options": {
+        "commit": {
+            "type": "string",
+            "default": "latest",
+            "description": "Version specific commit"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
